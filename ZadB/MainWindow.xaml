@@ -1,0 +1,14 @@
+﻿<Window x:Class="ZadB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZadB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbWynik" Content="wynik" HorizontalAlignment="Center" Margin="0,199,0,0" VerticalAlignment="Top" Height="44" Width="712"/>
+        <Button x:Name="btnPolicz" Content="Policz" HorizontalAlignment="Left" Margin="259,87,0,0" VerticalAlignment="Top" Height="63" Width="181" Click="btnPolicz_Click"/>
+
+    </Grid>
+</Window>

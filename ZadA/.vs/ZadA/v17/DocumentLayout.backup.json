@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|c:\\users\\grzeg\\desktop\\c-3\\zada\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|c:\\users\\grzeg\\desktop\\c-3\\zada\\obywatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|solutionrelative:obywatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|c:\\users\\grzeg\\desktop\\c-3\\zada\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E1E0E5B-40F6-414F-9E44-EE9D6153AC34}|ZadA.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Obywatel.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\Obywatel.cs",
+              "RelativeDocumentMoniker": "Obywatel.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\Obywatel.cs",
+              "RelativeToolTip": "Obywatel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:28:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T17:17:49.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\C-3\\ZadA\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:17:44.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
