@@ -1,0 +1,17 @@
+﻿<Window x:Class="ZadanieBLab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZadanieBLab4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1054">
+    <Grid>
+        <Button x:Name="btnKula" Content="Kula" HorizontalAlignment="Left" Height="70" Margin="10,10,0,0" VerticalAlignment="Top" Width="211" Click="btnKula_Click"/>
+        <Button x:Name="btnStozek" Content="Stozek" HorizontalAlignment="Left" Height="70" Margin="226,10,0,0" VerticalAlignment="Top" Width="261" Click="btnStozek_Click"/>
+        <Label x:Name="lbWynik" Content="" HorizontalAlignment="Left" Height="175" Margin="10,85,0,0" VerticalAlignment="Top" Width="477" Background="#FFFDE3E3"/>
+        <Button x:Name="btnKlik" Content="Stworz liste" HorizontalAlignment="Left" Margin="673,25,0,0" VerticalAlignment="Top" Height="79" Width="218" Click="btnKlik_Click"/>
+        <ListBox x:Name="WyswietlListBox" HorizontalAlignment="Left" Height="300" Margin="527,124,0,0" VerticalAlignment="Top" Width="517" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+
+    </Grid>
+</Window>
